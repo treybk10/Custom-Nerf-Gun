@@ -17,4 +17,4 @@ button: https://www.amazon.com/dp/B0CJHXJWN3?th=1
 Most 3d printed parts will snap together though I recommend taping or gluing some down. 
 
 For wiring on the DPDT relay, battery - goes to pin 5 and 7. Have part of battery + go through straight to pin 6, and the other through the button and to pin 8. 
-Pins 2 and 3 should be connected to the linear actuator - and 1 and 4 to it's +`
+Pins 2 and 3 should be connected to the linear actuator - and 1 and 4 to it's +
