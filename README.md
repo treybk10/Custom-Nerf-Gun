@@ -1,4 +1,4 @@
-This is a custom 3d printed nerf gun I made. Uses two motors in the front and a 12v linear actuator. Made this to have fun and learn some more CAD.
+This is a custom 3d printed nerf gun I made. Uses two motors in the front and a 12v linear actuator to feed the dart. Made this to have fun and learn some more CAD.
 
 Please print all pieces with PLA or PETG except for the flywheels witch will need TPU.
 
