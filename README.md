@@ -6,6 +6,8 @@ Please print all pieces with PLA or PETG except for the flywheels witch will nee
 
 You'll need to print one of each file with the exeption of the flywheels, where you'll need two. The Cover Back Handle is optional, along with the Mag-2.
 
+All parts snap together but I like to use tape or glue for extra support. Always start by assembling the two barrels first. (1st Barrel V1-2.step and Inside Barrel.step). Then you can assemble the rest however you want. 
+
 You can find the BOM in the files.
 
 Wiring diagram:
